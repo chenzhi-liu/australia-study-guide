@@ -20,10 +20,10 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '概览', link: '/ch1' },
-          { text: '澳洲学制与教育体系', link: '/ch1#1-1-澳洲学制与教育体系' },
-          { text: '学制与学分扫盲', link: '/ch1#1-2-学制与学分扫盲' },
-          { text: '灵魂拷问：我需要找中介吗？', link: '/ch1#1-3-灵魂拷问-我需要找中介吗' },
-          { text: '留学资金与时间规划', link: '/ch1#1-4-留学资金与时间规划' },
+          { text: '澳洲学制与教育体系', link: '/ch1#1-1' },
+          { text: '学制与学分扫盲', link: '/ch1#1-2' },
+          { text: '灵魂拷问：我需要找中介吗？', link: '/ch1#1-3' },
+          { text: '留学资金与时间规划', link: '/ch1#1-4' },
         ]
       }
       
