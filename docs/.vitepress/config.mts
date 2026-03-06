@@ -17,13 +17,28 @@ export default defineConfig({
       },
       {
         text: '留学启航',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '概览', link: '/ch1' },
           { text: '澳洲学制与教育体系', link: '/ch1#1-1' },
           { text: '学制与学分扫盲', link: '/ch1#1-2' },
           { text: '灵魂拷问：我需要找中介吗？', link: '/ch1#1-3' },
           { text: '留学资金与时间规划', link: '/ch1#1-4' },
+        ]
+      },
+      {
+        text: '寻路澳洲',
+        collapsed: true,
+        items: [
+          { text: '你的专属申请通道', link: '/ch2' },
+          { text: '本科申请：高中毕业生', link: '/ch2#2-1' },
+          { text: '本科申请：高二学生（预科）', link: '/ch2#2-2' },
+          { text: '本科申请：专科毕业生', link: '/ch2#2-3' },
+          { text: '本科申请：本科在读（转学）', link: '/ch2#2-4' },
+          { text: '硕士申请：授课型硕士与硕士预科', link: '/ch2#2-5' },
+          { text: '语言班', link: '/ch2#2-6' },
+          { text: 'Offer 机制', link: '/ch2#2-7' },
+          { text: '避坑指南：合作办学', link: '/ch2#2-8' },
         ]
       }
       
