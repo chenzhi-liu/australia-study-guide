@@ -40,6 +40,20 @@ export default defineConfig({
           { text: 'Offer 机制', link: '/ch2#2-7' },
           { text: '避坑指南：合作办学', link: '/ch2#2-8' },
         ]
+      },
+      {
+        text: '选专业与移民真相',
+        collapsed: true,
+        items: [
+          { text: '概览', link: '/ch3' },
+          { text: '合格录取与竞争录取', link: '/ch3#3-1' },
+          { text: '行业注册壁垒', link: '/ch3#3-2' },
+          { text: '核心签证类型', link: '/ch3#3-3' },
+          { text: '常见技术移民代码', link: '/ch3#3-4' },
+          { text: '签证结果申诉', link: '/ch3#3-5' },
+          { text: '学校排名与移民', link: '/ch3#3-6' },
+          { text: '非法入境', link: '/ch3#3-7' },
+        ]
       }
       
     ],
