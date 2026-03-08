@@ -54,6 +54,18 @@ export default defineConfig({
           { text: '学校排名与移民', link: '/ch3#3-6' },
           { text: '非法入境', link: '/ch3#3-7' },
         ]
+      },
+      {
+        text: '申请必读：电子工具与材料准备',
+        collapsed: true,
+        items: [
+          { text: '概览', link: '/ch4' },
+          { text: '使用电子邮件', link: '/ch4#4-1' },
+          { text: '上传 PDF', link: '/ch4#4-2' },
+          { text: '核心申请材料', link: '/ch4#4-3' },
+          { text: '材料翻译与公证', link: '/ch4#4-4' },
+          { text: 'AI 辅助留学', link: '/ch4#4-5' },
+        ]
       }
       
     ],
