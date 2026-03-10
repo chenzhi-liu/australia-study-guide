@@ -66,6 +66,18 @@ export default defineConfig({
           { text: '材料翻译与公证', link: '/ch4#4-4' },
           { text: 'AI 辅助留学', link: '/ch4#4-5' },
         ]
+      },
+      {
+        text: '攻克 500 学生签证',
+        collapsed: true,
+        items: [
+          { text: '概览', link: '/ch5' },
+          { text: '澳洲 500 签证是什么？', link: '/ch5#5-1' },
+          { text: '为什么需要提交的材料时常发生变化？', link: '/ch5#5-2' },
+          { text: '我需要找签证代理吗？', link: '/ch5#5-3' },
+          { text: 'GS (Genuine Student) 真实学生测试', link: '/ch5#5-4' },
+          { text: '签证材料清单', link: '/ch5#5-5' },
+        ]
       }
       
     ],
