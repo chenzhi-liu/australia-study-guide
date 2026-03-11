@@ -16,7 +16,7 @@ export default defineConfig({
         items: [{ text: '从这里开始阅读', link: '/' }]
       },
       {
-        text: '留学启航',
+        text: '<b>§1</b> 学制规则与前期规划',
         collapsed: true,
         items: [
           { text: '概览', link: '/ch1' },
@@ -27,7 +27,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '寻路澳洲',
+        text: '<b>§2</b> 选择最适合你的升学方案',
         collapsed: true,
         items: [
           { text: '你的专属申请通道', link: '/ch2' },
@@ -42,7 +42,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '选专业与移民真相',
+        text: '<b>§3</b> 澳洲录取、职业注册与移民体系',
         collapsed: true,
         items: [
           { text: '概览', link: '/ch3' },
@@ -56,7 +56,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '申请必读：电子工具与材料准备',
+        text: '<b>§4</b> 数字化申请实操：邮件沟通、材料准备与 AI 辅助指南',
         collapsed: true,
         items: [
           { text: '概览', link: '/ch4' },
@@ -68,7 +68,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '攻克 500 学生签证',
+        text: '<b>§5</b> 学生签证（Visa 500）扫盲',
         collapsed: true,
         items: [
           { text: '概览', link: '/ch5' },
